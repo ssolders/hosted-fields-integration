@@ -1,0 +1,13 @@
+#hosted-fields-wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+#hosted-fields-wrapper .hosted-field-container {
+  height: 65px;
+}
+
+#hosted-fields-wrapper .hosted-field-container iframe {
+  width: 100%;
+  border: 0px;
+}
